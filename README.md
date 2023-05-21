@@ -1,4 +1,4 @@
-![logo](https://github.com/mathewalexKerala/mathewalexKerala/blob/main/95899696-8387dd80-0d56-11eb-975b-6f3f58b0a400.png)
+![logo](![image](https://github.com/mathewalexKerala/mathewalexKerala/assets/116719115/829dcf64-1f6e-4ee5-9f34-d9f9fe2debdd))
 <h1 align="center">Hi 👋, I'm Mathew Alex</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://media4.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47c53w1sfs9w6jyh1eewpwmxq85g1ctclniikn6vxr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
