@@ -1,4 +1,4 @@
-<img src="https://imgs.search.brave.com/8t1BO7PmQUFrTTiEO-CooqWejtvkJY9xz7ve7xF7z84/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93b3Js/ZGluZm90cmF2ZWwu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy9h/ZnJpY2EvY3VycmVu/dHRpbWUvZW4vY3Vy/cmVudHRpbWUtY2l0/eS1jYWlyby00NDYu/d2VicA"/>
+
 <h1 align="center">Hi 👋, I'm Mathew Alex</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
