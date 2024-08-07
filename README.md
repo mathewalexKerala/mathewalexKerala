@@ -1,4 +1,3 @@
-![Signal](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMjM0NTYiIGlkPSJzdGF0aWMiIGZpbGw9IiMwMDAwMDAiPjwvcGF0aD48L3N2Zz4K)
 
 <h1 align="center">Hi 👋, I'm Mathew Alex</h1>
 <h3 align="center">A passionate Software developer from India</h3>
