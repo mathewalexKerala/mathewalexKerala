@@ -1,10 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="20">
-  <rect rx="3" width="150" height="20" fill="#555"/>
-  <rect rx="3" x="60" width="90" height="20" fill="#007ec6"/>
-  <path d="M60 0h4v20h-4z" fill="#007ec6"/>
-  <text x="30" y="14" fill="#fff" font-family="Verdana" font-size="11">repo</text>
-  <text x="80" y="14" fill="#fff" font-family="Verdana" font-size="11">badge</text>
-</svg>
+![Badge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTA2IiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkdpaHV0OiBwYXNzZWRzYWQiPjx0aXRsZT5HaWh1dDogcGFzc2Vkc2FkPC90aXRsZT48bGluZWFyR3JhZGllbnQgaWQ9InMiIHgyPSIwIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjYmJiIiBzdG9wLW9wYWNpdHk9Ii4xIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLW9wYWNpdHk9Ii4xIi8+PC9saW5lYXJHcmFkaWVudD48Y2xpcFBhdGggaWQ9InIiPjxyZWN0IHdpZHRoPSIxMDYiIGhlaWdodD0iMjAiIHJ4PSIzIiBmaWxsPSIjZmZmIi8+PC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjcikiPjxyZWN0IHdpZHRoPSIzOSIgaGVpZ2h0PSIyMCIgZmlsbD0iIzk3Y2EwMCIvPjxyZWN0IHg9IjM5IiB3aWR0aD0iNjciIGhlaWdodD0iMjAiIGZpbGw9IiNkZmIzMTciLz48cmVjdCB3aWR0aD0iMTA2IiBoZWlnaHQ9IjIwIiBmaWxsPSJ1cmwoI3MpIi8+PC9nPjxnIGZpbGw9IiNmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLEdlbmV2YSxEZWphVnUgU2FucyxzYW5zLXNlcmlmIiB0ZXh0LXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIiBmb250LXNpemU9IjExMCI+PHRleHQgYXJpYS1oaWRkZW49InRydWUiIHg9IjIwNSIgeT0iMTUwIiBmaWxsPSIjMDEwMTAxIiBmaWxsLW9wYWNpdHk9Ii4zIiB0cmFuc2Zvcm09InNjYWxlKC4xKSIgdGV4dExlbmd0aD0iMjkwIj5HaWh1dDwvdGV4dD48dGV4dCB4PSIyMDUiIHk9IjE0MCIgdHJhbnNmb3JtPSJzY2FsZSguMSkiIGZpbGw9IiNmZmYiIHRleHRMZW5ndGg9IjI5MCI+R2lodXQ8L3RleHQ+PHRleHQgYXJpYS1oaWRkZW49InRydWUiIHg9IjcxNSIgeT0iMTUwIiBmaWxsPSIjMDEwMTAxIiBmaWxsLW9wYWNpdHk9Ii4zIiB0cmFuc2Zvcm09InNjYWxlKC4xKSIgdGV4dExlbmd0aD0iNTcwIj5wYXNzZWRzYWQ8L3RleHQ+PHRleHQgeD0iNzE1IiB5PSIxNDAiIHRyYW5zZm9ybT0ic2NhbGUoLjEpIiBmaWxsPSIjZmZmIiB0ZXh0TGVuZ3RoPSI1NzAiPnBhc3NlZHNhZDwvdGV4dD48L2c+PC9zdmc+)
 
 <h1 align="center">Hi 👋, I'm Mathew Alex</h1>
 <h3 align="center">A passionate Software developer from India</h3>
