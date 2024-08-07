@@ -1,4 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="20" role="img" aria-label="Gihut: passed"><title>Gihut: passed</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="88" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="39" height="20" fill="#97ca00"/><rect x="39" width="49" height="20" fill="#dfb317"/><rect width="88" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="205" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="290">Gihut</text><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">Gihut</text><text aria-hidden="true" x="625" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="390">passed</text><text x="625" y="140" transform="scale(.1)" fill="#fff" textLength="390">passed</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="20">
+  <rect rx="3" width="150" height="20" fill="#555"/>
+  <rect rx="3" x="60" width="90" height="20" fill="#007ec6"/>
+  <path d="M60 0h4v20h-4z" fill="#007ec6"/>
+  <text x="30" y="14" fill="#fff" font-family="Verdana" font-size="11">repo</text>
+  <text x="80" y="14" fill="#fff" font-family="Verdana" font-size="11">badge</text>
+</svg>
+
 <h1 align="center">Hi 👋, I'm Mathew Alex</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
