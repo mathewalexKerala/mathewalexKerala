@@ -1,4 +1,4 @@
-![Badge](https://wdt.adambashaahmednaji.com/api/badge?label=github&message=badge&labelColor=%23a42323&color=%234716a2&logoBase64=&links=&style=flat-square)
+![Badge](https://wdt.adambashaahmednaji.com/api/badge?label=github&message=badge&labelColor=%23d11515&color=%2317ab43&logoBase64=&links=&style=flat)
 <h1 align="center">Hi 👋, I'm Mathew Alex</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
