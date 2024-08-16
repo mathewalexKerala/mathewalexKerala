@@ -1,8 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Mathew Alex</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathewalexkerala&label=Profile%20views&color=0e75b6&style=flat" alt="mathewalexkerala" /> </p>
+
 
 - 🌱 I’m currently learning **Mern Stack,Self Learning**
 
